@@ -1,0 +1,17 @@
+
+“Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery” is the procedure that has the greatest variability among hospitals.Standard Deviation is a measure of how spread out numbers are. The standard deviation of procedure percentage ranking shows how different a procedure score is ranked among all procedures done in a hospital. 
+
+
+Query Result:
+
+measure	stddev_pctrank
+Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery	0.4143667106965184
+Aspirin at Arrival	0.4083150756665941
+Antithrombotic Therapy By End of Hospital Day 2	0.39558122899198134
+Discharged on Antithrombotic Therapy	0.3927854197185136
+Statin Prescribed at Discharge	0.3914171797287205
+Assessed for Rehabilitation	0.38755048453512947
+Aspirin Prescribed at Discharge	0.38535071601153853
+Evaluation of LVS Function	0.38434549456160927
+Prophylactic Antibiotic Selection for Surgical Patients	0.3709809468970201
+ACEI or ARB for LVSD	0.36982425465329866
