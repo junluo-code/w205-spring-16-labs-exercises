@@ -21,7 +21,7 @@ STEPS TO RUN EX2:
 4.	under exercise_2, run the database set up script. This should mount /data directory and start postgres.
 
      chmod a+x db_setup.sh
-     bash ex2_db_setup.sh
+     bash db_setup.sh
 
 5.	Change directory into tweetwordcount application
 
